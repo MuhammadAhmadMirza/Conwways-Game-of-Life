@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 ## Documentation
 
-For more information, check out the [Conway's Game of Life Documentation](docs/Conways%20Game%20of%20Life.docx)
+For more information, check out the [Conway's Game of Life Documentation](/docs/Conways%20Game%20of%20Life.docx)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](docs/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/docs/LICENSE) file for details.
