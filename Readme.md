@@ -2,7 +2,7 @@
 
 This project is an implementation of **Conway's Game of Life** in Python using **Pygame** and **SciPy's convolution** for efficient calculations. It provides a visualization of the evolution of life on a grid based on simple rules, showcasing how initial configurations evolve over time.
 
-![Demo](/src/assets/images/demo.gif)
+![Demo](/assets/demo.gif)
 
 
 ## What is Conway's Game of Life?
@@ -47,8 +47,8 @@ pip install -r requirements.txt
 
 ## Documentation
 
-For more information, check out the [Conway's Game of Life Documentation](/docs/Conways%20Game%20of%20Life.md)
+For more information, check out the [Conway's Game of Life Info markdown file](/assets/Conways%20Game%20of%20Life.md)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](/docs/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
